@@ -10,5 +10,4 @@ data_source retail:
     dataset: retail
 soda_cloud:
   host: cloud.soda.io
-  api_key_id: ede3a95b-18c6-41a0-b285-26e723b1e661
-  api_key_secret: munipLtzAI5e3UAYJsA7eAW4pE5aHPv8Cy3QjUzHT9Vta0zShz2qOg
+  
